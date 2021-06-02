@@ -1,5 +1,5 @@
 # Cybersecurity
-Fianl project for CMPT 318 : CyberSecurity 
+Fianl project for CMPT 318 : CyberSecurity at Simon Fraser University
 
 Data Analytics for Protection of Critical Operating Infrastructures such as SCADA system and the Electric Grid system in Northern America 
  - Used time series data from 2006 to 2010 and cleaned it for meaningful readings. 
